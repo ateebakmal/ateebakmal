@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ateebakmal
 - 👀 Currently doing bachelors in Data Science from COMSATS ISB
-- 📫 Reach me : ateebakmal009@gmail.com
+- 📫 Reach me : ateebakmal.work@gmail.com
 
 <!---
 ateebakmal/ateebakmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
